@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(51, 47, 55);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #609EA2;
+
+}
+h3{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Main Section */
+.heading{
+    padding-top: 5%;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.section{
+    display: inline-block;
+    margin-top: 3%;
+    margin-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+
+/* FOOTER*/
+.footer{
+    margin-top: 1rem;
+}
+.author{
+    color:#EAEAEA
+}
+.button{
+    font-family: 'Lobster', cursive;
+    padding: 1rem 3rem;
+    border-radius: 13px ;
+    color: #362FD9;
+    font-size: x-large;
+    font-weight: 600;
+    background-color: rgb(59, 222, 208);
+    margin-bottom: 1rem;
+}
